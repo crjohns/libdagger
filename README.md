@@ -3,8 +3,6 @@ libdagger
 
 The Dagger GUI Framework
 
-== Information ==
-
 Dagger is a minimal GUI framework for games which emphasizes ease-of-use.
 
 It doesn't have widgets or gadgets, but it does have a simple interface for creating a hierarchy of "views" inside of an outer "scene" wrapper.
